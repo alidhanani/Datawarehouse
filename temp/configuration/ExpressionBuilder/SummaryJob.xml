@@ -1,0 +1,74 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="(row18.Airline_ID == null) ? 0 :  row18.Unique_Carrier_ID">
+  <variables name="row16.Departures_Scheduled" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Departures_Performed" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Payload" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Seats" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Passengers" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Freight" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Mail" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Distance" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Ramp_To_Ramp" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Air_Time" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row16.Unique_Carrier" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Airline_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Unique_Carrier_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Unique_Carrier_Entity" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Region" value="null" talendType="id_Character" nullable="true"/>
+  <variables name="row16.Carrier" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Carrier_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Carrier_Group" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Carrier_Group_New" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Origin_Airport_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Origin_Airport_Seq_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Origin_City_Market_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Origin" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Origin_City_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Origin_Country" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Origin_Country_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Origin_WAC" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Dest_Airport_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Dest_Airport_Seq_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Dest_City_Market_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Dest" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Dest_City_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Dest_Country" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Dest_Country_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Dest_WAC" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Aircraft_Group" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Aircraft_Type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row16.Aircraft_Config" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Year" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Quarter" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Month" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.Distance_Group" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row16.valueClass" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row17.Aircraft_ID" value="0" talendType="id_Integer"/>
+  <variables name="row17.Aircraft_Group" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row17.Aircraft_Type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row17.Aircraft_Config" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row18.Unique_Carrier_ID" value="0" talendType="id_Integer"/>
+  <variables name="row18.Carrier_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row18.Airline_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row18.Unique_Carrier_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row18.Unique_Carrier_Entity" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row19.Date_ID" value="0" talendType="id_Integer"/>
+  <variables name="row19.cMonth" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row19.cYear" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row19.Quarter" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row20.Class_ID" value="0" talendType="id_Integer"/>
+  <variables name="row20.cClass" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row21.Distance_Group_ID" value="0" talendType="id_Integer"/>
+  <variables name="row21.Distance_Group" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row22.Airport_ID" value="0" talendType="id_Integer"/>
+  <variables name="row22.Geo_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row22.Airport_Seq_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row22.City_Market_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row22.Airport" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row23.Airport_ID" value="0" talendType="id_Integer"/>
+  <variables name="row23.Geo_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row23.Airport_Seq_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row23.City_Market_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row23.Airport" value="null" talendType="id_String" nullable="true"/>
+  <variables name="(row18.Airline_ID == NULL) ? 0 :  row18.Unique_Carrier_ID " value="0" talendType="id_Integer"/>
+</expression:EMFExpression>
